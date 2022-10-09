@@ -1,2 +1,2 @@
 #!/bin/bashsudo 
-sudo chown betty john
+mv betty john
